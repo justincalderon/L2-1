@@ -5,28 +5,28 @@
 //*                                                                     * 
 //* Purpose         : This program will calculate the amount of boxes   *
 //                    needed, remaining cookies, containers needed,     *
-//				      and remaining boxes based on number of cookies    *
-//					  value.                                            *
-//*																		*
-//*																		*
-//*																		*
+//		      and remaining boxes based on number of cookies    *
+//		      value.                                            *
+//*									*
+//*									*
+//*									*
 //*                                                                     * 
 //* Inputs          : - User enters value for number of cookies per box *
-//					  - User enters value for number of boxes per	    *
-//					  container.										*
-//					  - User enters value for number of cookies.        *
+//		      - User enters value for number of boxes per	*
+//			container.					*
+//		      - User enters value for number of cookies.        *
 //*                                                                     * 
 //* Outputs         : - Displays, Enter the number of cookies per box or*
-//					  press 'Enter' to use the default of 24 per box.   *
-//					  - Displays, Cookies per box selected value.       *
-//					  - Displays, Enter the number of boxes per		    *
-//					  container or press 'Enter' to use the default     *
-//					  of 75 boxes per container.						*
-//					  - Displays, Boxes per container selected value.   *
-//					  - Displays, Enter the total number of cookies.    *
-//					  - Displays output values for boxes needed,	    *
-//					  remaining cookies, containers needed, and			*
-//					  remaining boxes.									*
+//		 	press 'Enter' to use the default of 24 per box. *
+//		      - Displays, Cookies per box selected value.       *
+//	 	      - Displays, Enter the number of boxes per		*
+//		        container or press 'Enter' to use the default   *
+//			of 75 boxes per container.			*
+//		      - Displays, Boxes per container selected value.   *
+//		      - Displays, Enter the total number of cookies.    *
+//		      - Displays output values for boxes needed,	*
+//		        remaining cookies, containers needed, and	*
+//		        remaining boxes.				*
 //*                                                                     * 
 //* Calls           : No internal or external calls                     * 
 //*                                                                     * 
@@ -36,9 +36,9 @@
 //*                        End of Program                               * 
 //*                                                                     * 
 //*---------------------------------------------------------------------* 
-//* Collaboration   :  cplusplus.com									*
-//*																		*
-//*																		*
+//* Collaboration   :  cplusplus.com					*
+//*									*
+//*									*
 //*---------------------------------------------------------------------* 
 //* Change Log:                                                         * 
 //*                         Revision                                    * 
